@@ -1,0 +1,6 @@
+opencv-python
+fer
+matplotlib
+pandas
+moviepy
+deepface
